@@ -1,8 +1,7 @@
-Данная работа - моя курсовая по предмету Информационные системы.
-Программа создана для работы с базой данных магазина и содержит информацию о:
-- сотрудниках
-- товарах
-- продажах
+**StoreDB** is an educational desktop application for managing a store database.
 
-Позволяет редактировать данные, сохранять их в формате xml.
-Данные хранятся с помощью PostgreSQL.
+* **Technology:** C#, WinForms, PostgreSQL
+* **Main entities:** employees, products, and sales
+* **Features:** data viewing and editing, database management, and XML export
+* **Architecture:** Visual Studio solution with a WinForms client connected to a PostgreSQL database
+* **Purpose:** demonstrates CRUD operations, database integration, and data serialization.
